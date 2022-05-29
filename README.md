@@ -11,6 +11,3 @@ Your approach will be to use the JavaScript and the D3.js library to retrieve th
 
 Now that you have an overview of the project plan, let's set up a Mapbox account and get the API token you'll need to create geographical maps.
 
-### Results
-Please follow the following link to view the Earthquake map, which includes various themes and layers the user can toggle through. 
-[index.html](https://raw.githubusercontent.com/JeremyKRay/Mapping_Earthquakes/main/Earthquake_Challenge/index.html)
