@@ -13,3 +13,4 @@ Now that you have an overview of the project plan, let's set up a Mapbox account
 
 ### Results
 Please follow the following link to view the Earthquake map, which includes various themes and layers the user can toggle through. 
+[index.html](Earthquake_Challenge/index.html)
