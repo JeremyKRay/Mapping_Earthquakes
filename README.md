@@ -12,5 +12,7 @@ My approach was to use the JavaScript and the D3.js library to retrieve the coor
 ### Results
 
 Please follow the following link to view the interactive map. A snapshot of the map is shown below. 
-[Mapping Earthquakes](https://github.com/JeremyKRay/Mapping_Earthquakes/blob/main/Earthquake_Challenge/index.html)
+
+![Mapping Earthquakes](https://github.com/JeremyKRay/Mapping_Earthquakes/blob/main/Earthquake_Challenge/index.html)
+
 ![Mapping Earthquakes](https://github.com/JeremyKRay/Mapping_Earthquakes/blob/819862b19a746455c43e560e8141e1df7a2a3973/Earthquake_Challenge/Mapping_Earthquakes.png)
