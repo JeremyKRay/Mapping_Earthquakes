@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 # Config with api code
-config.js
+static/js/config.js
 
 # Distribution / packaging
 .Python
