@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 # Config with api code
-Earthquake_Challenge/static/js/config.js
+config.js
 
 # Distribution / packaging
 .Python
